@@ -19,6 +19,6 @@ django-user-roles
 Comment les utiliser???
 Penser à installer pip install django-user-accounts pour faire une form basé sur l'email...
 
-Le Django Book 2.0 de mon cru
+Le Django Book 2.0
 http://www.djangobook.com/en/2.0/index.html
 
