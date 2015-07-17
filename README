@@ -1,4 +1,10 @@
-Vérifier le fichier settings
+#README - R.LAB
+# FREE COMMENT
+
+Vérifier le fichier settings.py à chaque fois.
+
+# quelques commandes mysql initiale pour lancer la db.
+#Le mot de passe mysql est password par défaut pour root.
 
 #grant all privileges on *.* to root@localhost identified by 'password' with grant option;
 #GRANT SELECT, INSERT, UPDATE, DELETE, LOCK TABLES ON winestores.* TO username@127.0.0.1 IDENTIFIED by 'password';
@@ -19,6 +25,6 @@ django-user-roles
 Comment les utiliser???
 Penser à installer pip install django-user-accounts pour faire une form basé sur l'email...
 
-Le Django Book 2.0
+Le Django Book 2.0 à moi de moi
 http://www.djangobook.com/en/2.0/index.html
 

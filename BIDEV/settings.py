@@ -107,6 +107,8 @@ WSGI_APPLICATION = 'BIDEV.wsgi.application'
 #     }
 # }
 
+
+
 DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.mysql',
